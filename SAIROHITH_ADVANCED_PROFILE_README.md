@@ -344,10 +344,9 @@ Interested in:
 ---
 
 <div align="center">
-  <h3>
-    💎 <strong>"In the intersection of code and cyber-defense, we don't just build applications—we forge digital fortresses that stand resilient against tomorrow's unknown threats."</strong> 💎
-  </h3>
-  <p><em>~ Learning & Building Secure Digital Futures, One Line of Code at a Time ~</em></p>
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Security%20is%20not%20a%20product,%20but%20a%20process.%20Excellence%20is%20not%20a%20destination,%20but%20a%20journey%20of%20continuous%20innovation.&author=Sairohith%20Tappatla" alt="Security Quote" />
+  </p>
 </div>
 
 <div align="center">

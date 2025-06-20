@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=🔐+Cybersecurity+Enthusiast+%26+Security+Researcher;🌐+Full-Stack+MERN+%7C+TypeScript+%7C+Python+Developer;☁️+DevSecOps+Learner+%7C+AI%2FML+%7C+AWS+Cloud;🎓+3rd+Year+B.Tech+CSE+Student;🚀+Building+Secure+%26+Scalable+Applications;💡+Open+Source+Contributor+%26+Tech+Enthusiast;⚡+Learning+Automation+%7C+CI%2FCD+%7C+Secure+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=🔐+Cybersecurity+Enthusiast+%26+Security+Researcher;🌐+Full-Stack+MERN+%7C+TypeScript+%7C+Python+Developer;☁️+DevSecOps+Learner+%7C+AI%2FML+%7C+AWS+Cloud;🎓+3rd+Year+B.Tech+CSE+Student;🚀+Building+Secure+%26+Scalable+Applications;💡+Open+Source+Contributor+%26+Tech+Enthusiast" alt="Typing SVG" />
 </h3>
 
 <div align="center">

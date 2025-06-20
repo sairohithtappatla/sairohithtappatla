@@ -101,31 +101,38 @@ Goals:
 
 <div align="center">
 
-```ascii
+````ascii
 🔒 PENETRATION TESTING & SECURITY TOOLS
 ┌──────────────────────────────────────────────────────────────────────┐
 │  🕷️  Burp Suite Pro    🦈 Wireshark      🗺️  Nmap/Masscan         │
 │  💀 Metasploit        🛡️  OWASP ZAP     🐧 Kali Linux/Parrot      │
 │  🔍 Nessus/OpenVAS   🎯 Gobuster       📡 Aircrack-ng/Hashcat    │
-│  🐍 Custom Python    🔐 John the Ripper 🌐 Nikto/Dirbuster       │
-│  🖥️  Social Engineer 🔥 Hydra/Medusa   ⚡ Custom Exploit Scripts │
+│  🐍 Python Security   🔐 John the Ripper 🌐 Nikto/Dirbuster       │
+│  🖥️  Social Engineer 🔥 Hydra/Medusa   ⚡ Custom Python Scripts  │
 └──────────────────────────────────────────────────────────────────────┘
 
 🚀 DEVOPS & CLOUD SECURITY (LEARNING JOURNEY)
 ┌──────────────────────────────────────────────────────────────────────┐
-│  🐳 Docker (Beginner) ☁️  AWS Basics     🔄 GitHub Actions         │
-│  🖥️  Multi-IDE Setup  📮 API Testing     🔍 Security Scanning      │
-│  🌐 Nginx/Apache     📊 Basic Monitoring 🚨 Incident Response      │
-│  🛡️  Security Best    🔐 SSL/TLS Config  📋 Documentation         │
+│  🐳 Docker (Learning)  ☁️  AWS Basics     🔄 GitHub Actions         │
+│  🖥️  VS Code/PyCharm   📮 Postman/Insomnia 🔍 Security Scanning    │
+│  🌐 Apache/Nginx      📊 Basic Monitoring 🚨 Incident Response      │
+│  🛡️  OWASP Guidelines 🔐 SSL/TLS Setup   📋 Technical Writing      │
 └──────────────────────────────────────────────────────────────────────┘
 
-🤖 AI/ML & AUTOMATION TOOLKIT
+🤖 PYTHON-FOCUSED AI/ML & AUTOMATION
 ┌──────────────────────────────────────────────────────────────────────┐
 │  🧠 TensorFlow/PyTorch 👁️  OpenCV/YOLO    🤖 Scikit-learn/Pandas   │
-│  📸 Computer Vision    🎯 ML Pipelines    ⚡ Security Automation   │
-│  🔧 Python Automation  📊 Data Analysis   🚀 Model Development     │
+│  📸 Computer Vision    🎯 ML Security     ⚡ Python Automation      │
+│  🔧 Security Scripts   📊 Data Analysis   🚀 Model Development     │
+│  🐍 Advanced Python   🔒 Crypto Libraries 📈 Security Analytics   │
 └──────────────────────────────────────────────────────────────────────┘
-```
+
+### 💪 **Python Dominance: 95.29%**
+Your GitHub shows exceptional Python expertise! This aligns perfectly with:
+- 🔐 **Cybersecurity Automation** - Python is the go-to language for security tools
+- 🤖 **AI/ML Development** - Perfect for computer vision and security analytics
+- 🛠️ **DevOps Scripting** - Automation and infrastructure management
+- 📊 **Security Research** - Data analysis and vulnerability assessment
 
 </div>
 
@@ -137,23 +144,30 @@ Goals:
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairohithtappatla&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=sairohithtappatla&theme=radical&hide_border=true&border_radius=20" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sairohithtappatla&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&custom_title=Sairohith's%20GitHub%20Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=sairohithtappatla&theme=radical&hide_border=true&border_radius=20&card_width=400" width="49%" />
 </div>
 
-<!-- Top Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairohithtappatla&layout=compact&theme=radical&hide_border=true&border_radius=20&langs_count=8" width="48%" />
+<!-- Top Languages with better spacing -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairohithtappatla&layout=compact&theme=radical&hide_border=true&border_radius=20&langs_count=8&card_width=500&custom_title=Most%20Used%20Languages" width="55%" />
 </div>
 
 <!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sairohithtappatla&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=45B7D1" />
-</p>
-
-<!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sairohithtappatla&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sairohithtappatla&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area_color=96CEB4&height=300" width="100%" />
+</div>
+
+<!-- GitHub Summary Cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sairohithtappatla&theme=radical" width="100%" />
+</div>
+
+<!-- Additional Stats Row -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sairohithtappatla&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sairohithtappatla&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sairohithtappatla&theme=radical" width="32%" />
 </div>
 
 ---
@@ -234,7 +248,7 @@ Goals:
     - [ ] Speaking at Local Security Meetups
     - [ ] Published Security Blog Articles
     - [ ] Land DevSecOps Internship at Top Company
-```
+````
 
 </div>
 
@@ -245,7 +259,14 @@ Goals:
 ## 🏆 Achievement Dashboard
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sairohithtappatla&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sairohithtappatla&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+</div>
+
+<!-- Python Expertise Badge -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Python%20Expert-95.29%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2B2B2B" />
+  <img src="https://img.shields.io/badge/Total%20Commits-64+-00D4AA?style=for-the-badge&logo=git&logoColor=white&labelColor=2B2B2B" />
+  <img src="https://img.shields.io/badge/Active%20Developer-2024-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2B2B2B" />
 </div>
 
 <div align="center">

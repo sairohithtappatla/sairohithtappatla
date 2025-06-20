@@ -101,38 +101,31 @@ Goals:
 
 <div align="center">
 
-````ascii
+```ascii
 🔒 PENETRATION TESTING & SECURITY TOOLS
 ┌──────────────────────────────────────────────────────────────────────┐
 │  🕷️  Burp Suite Pro    🦈 Wireshark      🗺️  Nmap/Masscan         │
 │  💀 Metasploit        🛡️  OWASP ZAP     🐧 Kali Linux/Parrot      │
 │  🔍 Nessus/OpenVAS   🎯 Gobuster       📡 Aircrack-ng/Hashcat    │
-│  🐍 Python Security   🔐 John the Ripper 🌐 Nikto/Dirbuster       │
-│  🖥️  Social Engineer 🔥 Hydra/Medusa   ⚡ Custom Python Scripts  │
+│  🐍 Custom Python    🔐 John the Ripper 🌐 Nikto/Dirbuster       │
+│  🖥️  Social Engineer 🔥 Hydra/Medusa   ⚡ Custom Exploit Scripts │
 └──────────────────────────────────────────────────────────────────────┘
 
 🚀 DEVOPS & CLOUD SECURITY (LEARNING JOURNEY)
 ┌──────────────────────────────────────────────────────────────────────┐
-│  🐳 Docker (Learning)  ☁️  AWS Basics     🔄 GitHub Actions         │
-│  🖥️  VS Code/PyCharm   📮 Postman/Insomnia 🔍 Security Scanning    │
-│  🌐 Apache/Nginx      📊 Basic Monitoring 🚨 Incident Response      │
-│  🛡️  OWASP Guidelines 🔐 SSL/TLS Setup   📋 Technical Writing      │
+│  🐳 Docker (Beginner) ☁️  AWS Basics     🔄 GitHub Actions         │
+│  🖥️  Multi-IDE Setup  📮 API Testing     🔍 Security Scanning      │
+│  🌐 Nginx/Apache     📊 Basic Monitoring 🚨 Incident Response      │
+│  🛡️  Security Best    🔐 SSL/TLS Config  📋 Documentation         │
 └──────────────────────────────────────────────────────────────────────┘
 
-🤖 PYTHON-FOCUSED AI/ML & AUTOMATION
+🤖 AI/ML & AUTOMATION TOOLKIT
 ┌──────────────────────────────────────────────────────────────────────┐
 │  🧠 TensorFlow/PyTorch 👁️  OpenCV/YOLO    🤖 Scikit-learn/Pandas   │
-│  📸 Computer Vision    🎯 ML Security     ⚡ Python Automation      │
-│  🔧 Security Scripts   📊 Data Analysis   🚀 Model Development     │
-│  🐍 Advanced Python   🔒 Crypto Libraries 📈 Security Analytics   │
+│  📸 Computer Vision    🎯 ML Pipelines    ⚡ Security Automation   │
+│  🔧 Python Automation  📊 Data Analysis   🚀 Model Development     │
 └──────────────────────────────────────────────────────────────────────┘
-
-### 💪 **Python Dominance: 95.29%**
-Your GitHub shows exceptional Python expertise! This aligns perfectly with:
-- 🔐 **Cybersecurity Automation** - Python is the go-to language for security tools
-- 🤖 **AI/ML Development** - Perfect for computer vision and security analytics
-- 🛠️ **DevOps Scripting** - Automation and infrastructure management
-- 📊 **Security Research** - Data analysis and vulnerability assessment
+```
 
 </div>
 
@@ -248,7 +241,7 @@ Your GitHub shows exceptional Python expertise! This aligns perfectly with:
     - [ ] Speaking at Local Security Meetups
     - [ ] Published Security Blog Articles
     - [ ] Land DevSecOps Internship at Top Company
-````
+```
 
 </div>
 
@@ -259,14 +252,7 @@ Your GitHub shows exceptional Python expertise! This aligns perfectly with:
 ## 🏆 Achievement Dashboard
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sairohithtappatla&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-</div>
-
-<!-- Python Expertise Badge -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Python%20Expert-95.29%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2B2B2B" />
-  <img src="https://img.shields.io/badge/Total%20Commits-64+-00D4AA?style=for-the-badge&logo=git&logoColor=white&labelColor=2B2B2B" />
-  <img src="https://img.shields.io/badge/Active%20Developer-2024-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2B2B2B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sairohithtappatla&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 </div>
 
 <div align="center">

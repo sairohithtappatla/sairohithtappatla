@@ -63,7 +63,7 @@ Goals:
 ### 💻 **Programming Languages & Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,fastapi,django,flask" />
 </p>
 

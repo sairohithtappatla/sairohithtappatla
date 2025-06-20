@@ -46,12 +46,12 @@
 
 ```yaml
 Goals:
-  - [ ] 🚀 Publish a DevSecOps Automation Toolkit
-  - [ ] 🏗️ Build a Full-Stack SaaS Product Solo
-  - [ ] 🤝 Contribute to Open-Source Cybersecurity Tools
-  - [ ] 💼 Land a Paid Backend/DevSec Internship
-  - [ ] 🎬 Create YouTube Series: "Securing MERN Apps"
-  - [ ] 🎤 Speak at Cybersecurity Conferences & Meetups
+  -  🚀 Publish a DevSecOps Automation Toolkit
+  -  🏗️ Build a Full-Stack SaaS Product Solo
+  -  🤝 Contribute to Open-Source Cybersecurity Tools
+  -  💼 Land a Paid Backend/DevSec/Full Stack Internship
+  -  🎬 Create YouTube Series: "Securing MERN Apps"
+  -  🎤 Speak at Cybersecurity Conferences & Meetups
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
